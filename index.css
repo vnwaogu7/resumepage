@@ -33,9 +33,23 @@ header ul{
   justify-content:space-between;
 }
 
-header a:link{
- text-decoration:none;
+a:link {
+  text-decoration:none;
+  color:white;
 }
+
+a:visited{
+  color:white;
+}
+
+a:hover{
+  color:#2528ac;
+}
+
+a:active{
+  color:#00c997;
+}
+
 
 .main{
   margin:auto ;

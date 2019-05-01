@@ -1,0 +1,88 @@
+*{
+  box-sizing:border-box;
+}
+
+
+.top{
+  border:2px solid white;
+}
+
+h1{
+  font-size:70px;
+  padding:;
+  font-family:"brush script MT" ;
+  text-align:center;
+  color:#2528ac;
+  text-shadow:1px 1px white;
+}
+
+header{
+  background-image:url("http://prcouncil.net/wp-content/uploads/2017/02/Grey-Gradient-Background.png");
+}
+
+header nav{
+  border:2px groove white;
+  background-color:black;
+  padding-right:50px;
+}
+
+header ul{
+  font-size:20px;
+  color:white;
+  display:flex;
+  justify-content:space-between;
+}
+
+header a:link{
+ text-decoration:none;
+}
+
+.main{
+  margin:auto ;
+  background:url("http://sfwallpaper.com/images/blue-space-backgrounds-24.jpg");
+  
+}
+
+img {
+  text-align:center;
+  
+}
+
+
+footer nav{
+  color:white;
+  display:flex;
+  justify-content:space-between;
+  border:2px groove white;
+  background-color:black;
+  padding-right:50px;
+  
+}
+
+footer ul{
+  font-size:20px;
+  color:white;
+  display:flex;
+
+}
+
+.page li{
+  font-size:20px;
+  margin-left:5px;
+  margin-right:5px;  
+  display:flex;
+}
+
+.icon li{
+  font-size:35px;
+  margin-left:5px;
+  margin-right:5px;
+  display:flex;
+  color:white;
+}
+
+
+.bottom {
+
+  display:block;
+}

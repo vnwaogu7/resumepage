@@ -2,6 +2,11 @@
   box-sizing:border-box;
 }
 
+body {
+  margin:auto;
+  width:1170px;  
+  background-image:url("http://prcouncil.net/wp-content/uploads/2017/02/Grey-Gradient-Background.png");
+}
 
 .top{
   border:2px solid white;
